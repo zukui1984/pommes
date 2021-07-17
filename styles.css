@@ -1,25 +1,40 @@
 * {
   font-family: "Rubik", sans-serif;
   text-align: center;
-  border: 3px solid green;
+  /* border: 3px solid green; */  
 }
 
-/* h1,
-h2,
-ul,
-footer {
-  text-align: center;
-  width: 25%;
-  padding: auto;
+h1 {
   margin: auto;
-  border: 3px solid green;
-} */
+  padding: auto;
+}
+
 
 h2 { 
   margin: 10px;
   padding: 10px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 span {
   color: red;
+}
+
+button {
+  margin: 20px 20px;
+  padding: 10px 20px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+}
+
+footer {
+  font-weight: bolder;
+  margin: 10px;
+  padding: 10px;
 }
