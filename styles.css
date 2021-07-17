@@ -1,0 +1,25 @@
+* {
+  font-family: "Rubik", sans-serif;
+  text-align: center;
+  border: 3px solid green;
+}
+
+/* h1,
+h2,
+ul,
+footer {
+  text-align: center;
+  width: 25%;
+  padding: auto;
+  margin: auto;
+  border: 3px solid green;
+} */
+
+h2 { 
+  margin: 10px;
+  padding: 10px;
+}
+
+span {
+  color: red;
+}
