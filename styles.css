@@ -15,7 +15,7 @@ h2 {
   padding: 10px;
 }
 
-ul {
+.description {
   list-style-type: none;
 }
 
@@ -31,6 +31,10 @@ button {
 .menu {
   display: flex;
   justify-content: space-around;
+}
+
+.food {
+  font-weight: bolder;
 }
 
 footer {
